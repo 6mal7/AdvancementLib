@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"io.github._6mal7.advancementLib","l":"AdvancementAPI"},{"p":"io.github._6mal7.advancementLib","l":"AdvancementRegisterBuilder"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github._6mal7.advancementLib","l":"GrantMode"},{"p":"io.github._6mal7.advancementLib","l":"PlayerExtractor"}];updateSearchResults();
